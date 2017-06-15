@@ -1,5 +1,4 @@
 简单的实现了iOS中touchId
-
 # TouchId
 - (void)authenicateButtonTapped:(id)sender {
     LAContext *context = [[LAContext alloc] init];
